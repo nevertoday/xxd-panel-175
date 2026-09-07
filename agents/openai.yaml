@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 175"
+  short_description: "Amber-backlit Ivory Paper-cut Vignette"
+  default_prompt: "Use $xxd-panel-175 to transform my photograph following the complete canonical source brief."
