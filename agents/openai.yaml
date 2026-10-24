@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 175"
-  short_description: "Amber-backlit Ivory Paper-cut Vignette"
-  default_prompt: "Use $xxd-panel-175 to transform my photograph following the complete canonical source brief."
+  short_description: "琥珀透光纸雕小景志：把照片做成一小件层叠的象牙色纸雕，纸层之间透出暖暖的琥珀光"
+  default_prompt: "Use $xxd-panel-175 to turn my photo into Amber-backlit Ivory Paper-cut Vignette artwork."

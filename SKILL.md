@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-175
-description: "Create Panel 175 raster artwork: Amber-backlit Ivory Paper-cut Vignette. Use when the user invokes xxd-panel-175 or requests this specific visual language."
+description: "XXD Panel 175｜Amber-backlit Ivory Paper-cut Vignette: rebuilds a few essential elements of a photo as a minimalist miniature paper sculpture — multi-layer paper relief, pierced paper-cut and stacked sheets with fine fibres, cut edges, light creases and visible thickness, as if growing out of the page — taking only about 20–25% of the space, with 75–80% left as quiet whitespace. Warm ivory tonal palette (warm white, ivory, cream, pale apricot, light sand gold) lit by a soft amber backlight between the layers, tea-brown and sand-brown shadows instead of grey-black, and under 1% vermilion, rouge or deep ink as an accent. A few quiet words. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-175 or asks for backlit paper-cut, layered paper relief or ivory paper sculpture vignette from a photo."
 ---
 
 # XXD Panel 175

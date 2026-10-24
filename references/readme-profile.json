@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 175｜Amber-backlit Ivory Paper-cut Vignette: rebuilds a few essential elements of a photo as a minimalist miniature paper sculpture — multi-layer paper relief, pierced paper-cut and stacked sheets with fine fibres, cut edges, light creases and visible thickness, as if growing out of the page — taking only about 20–25% of the space, with 75–80% left as quiet whitespace. Warm ivory tonal palette (warm white, ivory, cream, pale apricot, light sand gold) lit by a soft amber backlight between the layers, tea-brown and sand-brown shadows instead of grey-black, and under 1% vermilion, rouge or deep ink as an accent. A few quiet words. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-175 or asks for backlit paper-cut, layered paper relief or ivory paper sculpture vignette from a photo.",
+  "short_description": "琥珀透光纸雕小景志：把照片做成一小件层叠的象牙色纸雕，纸层之间透出暖暖的琥珀光",
+  "zh-CN": {
+    "name": "琥珀透光纸雕小景志",
+    "tagline": "把照片做成一小件层叠的象牙色纸雕，纸层之间透出暖暖的琥珀光。",
+    "look": "照片里最有代表性的几样东西被简化成多层纸艺浅浮雕：镂空剪纸、层叠纸片，看得见纸纤维、切边、轻微压痕和纸层厚度，像从纸面里长出来的小景。主体只占约 20–25%，其余 75–80% 是安静干净的留白。颜色是暖白、象牙白、奶油米白，纸层间只差一点点淡杏、浅沙金或暖灰米，柔和的琥珀色背光从纸层之间透出来，阴影是浅茶褐、沙褐，不是灰黑。朱砂红或墨色只占不到 1%，少量字安静地放在留白里。",
+    "traits": [
+      "微缩纸雕",
+      "暖象牙纸色",
+      "琥珀背光",
+      "极小主体",
+      "75–80% 留白"
+    ],
+    "good": [
+      "轮廓有意境、适合剪影的主体：一棵松、一座塔、一只鹤、一个撑伞的人",
+      "简单的东方风景和建筑：一座山、一道拱桥、一扇月洞门、屋檐",
+      "想做成艺术书封面、文化品牌或展览视觉的照片"
+    ],
+    "poor": [
+      "颜色鲜艳、需要保留原色的照片，这里几乎全是象牙色和琥珀光",
+      "人多、物多、要交代完整环境的场景，主体只占一小块",
+      "想要满版山水、鲜黄国风、灰黑阴影或塑料 3D 效果的需求"
+    ]
+  },
+  "en": {
+    "name": "Amber-backlit Ivory Paper-cut Vignette",
+    "tagline": "Turns your photo into a small layered ivory paper sculpture with warm amber light glowing between the layers.",
+    "look": "A few of the photo's most telling elements are simplified into a multi-layer paper relief: pierced paper-cut shapes and stacked sheets with visible fibres, cut edges, light creases and paper thickness, as if a small scene were growing out of the page. The subject takes only about 20–25% of the space and the other 75–80% is calm, clean white. The colours are warm white, ivory and cream, with only slight shifts of pale apricot, light sand gold or warm beige-grey between layers; a soft amber backlight glows through the gaps, and shadows are pale tea-brown and sand-brown rather than grey-black. Vermilion or ink takes up less than 1%, and a few words sit quietly in the white space.",
+    "traits": [
+      "Miniature paper sculpture",
+      "Warm ivory paper",
+      "Amber backlight",
+      "Tiny subject",
+      "75–80% whitespace"
+    ],
+    "good": [
+      "Subjects with an evocative outline that suits a silhouette: a pine, a pagoda, a crane, someone holding an umbrella",
+      "Simple Eastern landscapes and buildings: a mountain, an arched bridge, a moon gate, temple eaves",
+      "Photos you want as an art-book cover, cultural brand artwork or exhibition visual"
+    ],
+    "poor": [
+      "Brightly coloured photos whose colours must stay, since nearly everything turns ivory and amber",
+      "Busy scenes with many people or objects that need the full setting, as the subject is only a small patch",
+      "Requests for an edge-to-edge landscape, bright yellow Chinese-style colours, grey-black shadows or plastic 3D"
+    ]
+  },
+  "ja": {
+    "name": "琥珀の透過光と象牙色の紙彫小景",
+    "tagline": "写真を重ねた象牙色の小さな紙彫りにし、紙の層のあいだから温かな琥珀色の光をこぼします。",
+    "look": "写真でいちばん象徴的なものをいくつか選び、多層の紙の浅浮彫に簡略化します。透かし切り紙と重ねた紙片で、紙の繊維、切り口、軽い押し跡、紙の厚みが見え、紙面から小さな景色が生えてきたようです。主役は画面のおよそ 20〜25% だけで、残りの 75〜80% は静かで清潔な余白です。色は温かな白、象牙色、クリーム色で、層ごとに淡い杏色、薄い砂金色、温かな灰ベージュがわずかに変わり、やわらかな琥珀色の逆光が層のすき間から透けます。影は灰黒ではなく淡い茶褐色や砂色です。朱や墨は 1% 未満で、言葉は余白に静かに少しだけ入ります。",
+    "traits": [
+      "ミニチュアの紙彫り",
+      "温かな象牙色の紙",
+      "琥珀色の逆光",
+      "ごく小さな主役",
+      "75〜80% の余白"
+    ],
+    "good": [
+      "シルエットにすると趣が出る主役：松、塔、鶴、傘をさす人",
+      "シンプルな東洋の風景や建物：山、太鼓橋、月洞門、軒先",
+      "アートブックの表紙、文化ブランドや展覧会のビジュアルにしたい写真"
+    ],
+    "poor": [
+      "色鮮やかで元の色を残したい写真（ほぼすべて象牙色と琥珀色になります）",
+      "人や物が多く環境まで伝えたい場面（主役は小さな一部分だけです）",
+      "画面いっぱいの山水、鮮やかな黄色の中華風、灰黒の影、プラスチックのような 3D を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "호박빛 역광의 상아색 종이 조각",
+    "tagline": "사진을 겹겹이 쌓은 작은 상아색 종이 조각으로 만들고, 종이층 사이로 따뜻한 호박빛이 새어 나오게 합니다.",
+    "look": "사진에서 가장 상징적인 것 몇 가지를 여러 겹의 종이 얕은 부조로 단순하게 만듭니다. 투각 종이 오리기와 겹친 종이 조각으로, 종이 섬유, 잘린 가장자리, 가벼운 눌린 자국, 종이 두께가 보여 종이 면에서 작은 풍경이 자라난 것 같습니다. 주인공은 화면의 약 20~25%만 차지하고 나머지 75~80%는 고요하고 깨끗한 여백입니다. 색은 따뜻한 흰색, 상아색, 크림색이며 층마다 연한 살구, 옅은 모래빛 금색, 따뜻한 회베이지가 아주 조금씩 다르고, 부드러운 호박빛 역광이 틈 사이로 비칩니다. 그림자는 회흑색이 아니라 연한 찻빛 갈색과 모래빛 갈색입니다. 주홍이나 먹색은 1% 미만이고, 글은 여백에 조용히 조금만 들어갑니다.",
+    "traits": [
+      "미니어처 종이 조각",
+      "따뜻한 상아색 종이",
+      "호박빛 역광",
+      "아주 작은 주인공",
+      "75~80% 여백"
+    ],
+    "good": [
+      "실루엣으로 만들면 운치 있는 주인공: 소나무, 탑, 학, 우산 쓴 사람",
+      "단순한 동양 풍경과 건축: 산 하나, 무지개다리, 둥근 월동문, 처마",
+      "아트북 표지, 문화 브랜드, 전시 비주얼로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "색이 화려해 원래 색을 살려야 하는 사진(거의 모두 상아색과 호박빛이 됩니다)",
+      "사람과 물건이 많아 환경 전체를 보여야 하는 장면(주인공은 작은 한 부분뿐입니다)",
+      "꽉 찬 산수, 선명한 노랑의 중국풍, 회흑색 그림자, 플라스틱 같은 3D를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "مشهد ورقي عاجي بإضاءة كهرمانية خلفية",
+    "tagline": "يحوّل صورتك إلى منحوتة ورقية عاجية صغيرة متعددة الطبقات، يتسلل بين طبقاتها ضوء كهرماني دافئ.",
+    "look": "تُبسَّط بضعة عناصر هي الأكثر دلالة في الصورة إلى نحت ورقي بارز متعدد الطبقات: أشكال ورق مخرّم وصفائح متراكبة تظهر فيها الألياف والحواف المقصوصة والطيّات الخفيفة وسماكة الورق، كأن مشهداً صغيراً ينبت من الصفحة. لا يشغل العنصر إلا نحو 20 إلى 25 بالمئة من المساحة، والباقي، 75 إلى 80 بالمئة، فراغ أبيض هادئ ونظيف. الألوان أبيض دافئ وعاجي وكريمي، مع فروق طفيفة فقط بين الطبقات من المشمشي الباهت أو الذهبي الرملي الفاتح أو البيج الرمادي الدافئ، ويتوهج ضوء خلفي كهرماني ناعم عبر الفجوات، والظلال بني شاي فاتح وبني رملي لا رمادي أسود. لا يتجاوز القرمزي أو الحبر 1 بالمئة، وتقع كلمات قليلة بهدوء في الفراغ.",
+    "traits": [
+      "منحوتة ورقية مصغرة",
+      "ورق عاجي دافئ",
+      "إضاءة كهرمانية خلفية",
+      "عنصر صغير جداً",
+      "فراغ 75–80 بالمئة"
+    ],
+    "good": [
+      "عناصر بحدود موحية تناسب الصورة الظلية: صنوبرة، معبد برجي، طائر كركي، شخص يحمل مظلة",
+      "مناظر ومبانٍ شرقية بسيطة: جبل، جسر مقوّس، بوابة القمر الدائرية، أفاريز المعبد",
+      "صور تريدها غلاف كتاب فني أو تصميماً لعلامة ثقافية أو لمعرض"
+    ],
+    "poor": [
+      "صور زاهية الألوان يجب أن تبقى ألوانها، إذ يصير كل شيء تقريباً عاجياً وكهرمانياً",
+      "مشاهد مزدحمة بالناس أو الأشياء تحتاج إلى المكان كاملاً، فالعنصر بقعة صغيرة فقط",
+      "طلب منظر يملأ المساحة أو ألوان صينية صفراء زاهية أو ظلال رمادية سوداء أو مظهر بلاستيكي ثلاثي الأبعاد"
+    ]
+  }
+}
